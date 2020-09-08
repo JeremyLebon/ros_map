@@ -717,3 +717,10 @@
   long: 21.786494
   address: Panepistimioupoli Patron, Rio
   link: http://lms.mech.upatras.gr
+- name: Researchgroup Smart Mobility - VIVES
+  type: school
+  lat: 50.803751
+  long: 3.284745
+  address: Steenbakkerstraat 21  - Kortrijk, Belgium
+  description: Implementing ROS of outdoor and indoor vehicles
+  link: https://www.linkedin.com/company/18698544/
